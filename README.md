@@ -93,5 +93,5 @@ jupyter notebook analysis.ipynb
 
 
 
-<h2>✨ Built with curiosity for data-driven insights</h2>
+<h2>✨ Built with curiosity for data-driven insights by Anvisha Trivedi</h2>
 
