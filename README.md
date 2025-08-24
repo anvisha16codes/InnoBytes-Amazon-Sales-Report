@@ -87,17 +87,11 @@ Run Jupyter Notebook or Python script:
 jupyter notebook analysis.ipynb
 
 <h1>Future Work</h1>
-Add time-series analysis of sales trends
-Perform customer segmentation
-Create interactive dashboard with Plotly or Power BI
+-Add time-series analysis of sales trends
+-Perform customer segmentation
+-Create interactive dashboard with Plotly or Power BI
 
 
 
 <h2>✨ Built with curiosity for data-driven insights</h2>
 
-
-Perform customer segmentation
-
-Create interactive dashboard with Plotly or Power BI
-
-✨ Built with curiosity for data-driven insights
